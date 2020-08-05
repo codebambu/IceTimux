@@ -1,4 +1,4 @@
-## icetimux
+## IceTimux
 - 🔭 I'm Currently working from home
 - 🌱 I'm Currently learning C++ and Crystal
 - 📫 How to reach me: icetimux@gmail.com
