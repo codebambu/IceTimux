@@ -1,4 +1,4 @@
-### Hi there I'm Timothy - aka [IceTimux](https://github.com/IceTimux) 👋
+### Hi there I'm Timothy - aka [IceTimux](https://github.com/IceTimux) :v:
 
 - 🔭 I’m currently working on propriatery insurance software, propriatery hotel software, a roguelike and a weblog system
 - 🌱 I’m currently learning Lisp, C++ and anything else I can get my hands on
