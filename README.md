@@ -1,7 +1,7 @@
-### Hi there I'm Timothy - aka [IceTimux](https://github.com/IceTimux) :v:
+### Hi there I'm Timothy - aka [IceTimux](https://github.com/IceTimux) aka [codebambu](https://github.com/codebambu) :v:
 
 - 🔭 I’m currently working on propriatery insurance software, propriatery hotel software, a roguelike and a weblog system
-- 🌱 I’m currently learning Lisp, C++ and anything else I can get my hands on
+- 🌱 I’m currently learning C++, Crystal and anything else I can get my hands on
 - 📫 How to reach me: icetimux@gmail.com
 <!-- - ⚡ Fun fact: --> 
 <!-- - 👯 I’m looking to collaborate on -->  
