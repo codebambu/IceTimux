@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there I'm Timothy - aka [IceTimux][https://github.com/IceTimux] 👋
 
-<!--
-**IceTimux/icetimux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on propriatery insurance software, propriatery hotel software, a roguelike and a weblog system
+- 🌱 I’m currently learning Lisp, C++ and anything else I can get my hands on 
+<!-- - 👯 I’m looking to collaborate on -->  
+<!-- - 🤔 I’m looking for help with -->
+<!-- - 💬 Talk to me about -->
+- 📫 How to reach me: icetimux@gmail.com
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: can speak extinct secret natural language
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
