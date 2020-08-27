@@ -1,7 +1,5 @@
 ## IceTimux
-- 🔭 I'm Currently working from home
-- 🤔 I sometimes blog over at icetimux.github.io
-- 📫 How to reach me: icetimux@gmail.com
+- Currently working from home on closed source software
 
 <!-- - ⚡ Fun fact: --> 
 <!-- - 👯 I’m looking to collaborate on -->  
