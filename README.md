@@ -1,6 +1,6 @@
 ## IceTimux
 - 🔭 I'm Currently working from home
-- :globe_with_meridians: Weblog: icetimux.github.io
+- 🤔 I sometimes blog over at icetimux.github.io
 - 📫 How to reach me: icetimux@gmail.com
 
 <!-- - ⚡ Fun fact: --> 
