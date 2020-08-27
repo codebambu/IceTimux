@@ -1,6 +1,6 @@
 ## IceTimux
 - 🔭 I'm Currently working from home
-- 🌱 I'm Currently learning C++ and Crystal
+- :globe_with_meridians: Weblog: icetimux.github.io
 - 📫 How to reach me: icetimux@gmail.com
 
 <!-- - ⚡ Fun fact: --> 
